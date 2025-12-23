@@ -38,7 +38,7 @@ The goal of this project is to:
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/Appscrip-task-yourname.git
+git clone https://github.com/Dhivyabj/Appscrip-task-Dhivya.git
 cd Appscrip-task-yourname
 
 
